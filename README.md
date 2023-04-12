@@ -1,7 +1,9 @@
 
 # Hardhat Project for BNB-Patika
 
-Contract Address: 0x210e1C05b87b64E0be2FE18cD8996cfC8d20cD47
+Assignment 1 Contract Address: 0x210e1C05b87b64E0be2FE18cD8996cfC8d20cD47
+Assignment 2 Contract Address: 0xfC3ccE0D4E0B639ef61Ed56E2A7Bdf2Ab7dab243
+
 
 12 April 2023
 
