@@ -25,5 +25,9 @@ contract Counter {
         require(b != 0, "cant divide by 0");
         divided = a / b;
     }
+
+    function returnValues() external view returns(uint, uint, uint, uint) {
+        return (added, subtracted, multiplied, divided);
+    }
     
 }
